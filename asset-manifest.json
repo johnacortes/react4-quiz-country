@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react4-quiz-country/static/css/main.3440ac69.css",
+    "main.js": "/react4-quiz-country/static/js/main.40b89ecc.js",
+    "static/media/congrats.svg": "/react4-quiz-country/static/media/congrats.ecb2f7b516becfa55d75.svg",
+    "static/media/bg.jpg": "/react4-quiz-country/static/media/bg.b56759cfcd11ec8f1eab.jpg",
+    "index.html": "/react4-quiz-country/index.html",
+    "main.3440ac69.css.map": "/react4-quiz-country/static/css/main.3440ac69.css.map",
+    "main.40b89ecc.js.map": "/react4-quiz-country/static/js/main.40b89ecc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3440ac69.css",
+    "static/js/main.40b89ecc.js"
+  ]
+}
